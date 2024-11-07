@@ -1,3 +1,4 @@
+Alex R Class Activity Semaphore
 to run this file play run the 2 commands
 gcc -o bankAccount bankAccount.c
 ./bankAcccount
